@@ -1,0 +1,10 @@
+.club {
+    height:auto;
+    color: white;
+    border: 2px solid green;
+    border-radius: 12px;
+    padding-top: 20px;    
+}
+.club ul {
+    list-style-type: none;
+}

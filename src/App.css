@@ -1,11 +1,13 @@
 .main {
   width: 80%; 
-  padding-top: 40px;
+  padding: 40px;
+  
   background-color: rgb(243, 212, 132);
   border-radius: 16px;
+  
   
 
 }
 .textDiv {
-  position: sticky; 
+  color:  rgb(52, 9, 247);
 }

@@ -4,14 +4,15 @@ import { faPlusSquare } from '@fortawesome/free-solid-svg-icons'
 import  './Players.css'
 
 const Players = (props) => {
-    const {name, img, salary} = props.player
+    const {name, img,team, salary} = props.player
     const handleAddPlayer =props.handleAddPlayer;
 
     return (
         <div className="container ">
             <div className="info col-sm-8">
-            <h2>Player Name : {name}</h2>
+            <h3>Player Name : {name}</h3>
             <h3> Salary Amount : {salary} Tk.</h3>
+            <h4> Team Name : {team}</h4>
             <button onClick={() => handleAddPlayer(props.player)} className="btn button btn-success"> <FontAwesomeIcon icon={faPlusSquare} /> Add Player</button>
             </div>
             <div className="imgTag col-sm-3 align-items-center">

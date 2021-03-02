@@ -10,7 +10,7 @@ const Salary = (props) => {
     
     return (
         <div>
-           <h3> Players Salary Amount : {totalSalary} Tk.</h3>
+           <h3> Players Salary Budget / Amount : {totalSalary} Tk.</h3>
         </div>
     );
 };

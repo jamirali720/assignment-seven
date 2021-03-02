@@ -1,68 +1,108 @@
 [{
         "id": 1,
-        "name": "Shakib al hasan",
+        "name": "Shakib Al Hasan",
+        "team": "Sunrisers Hyderabad",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Shakib_Al_Hasan_%284%29_%28cropped%29.jpg/260px-Shakib_Al_Hasan_%284%29_%28cropped%29.jpg",
         "salary": 42620
     },
     {
         "id": 2,
         "name": "Mashrafe Mortaza",
+        "team": "Rangpur Riders",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mashrafe_conference_1.jpg/260px-Mashrafe_conference_1.jpg",
         "salary": 53320
     },
     {
         "id": 3,
         "name": "Rubel Hossain",
+        "team": "Dhaka Dynamites",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Rubel_Hossain_%282%29_%28cropped%29.jpg/250px-Rubel_Hossain_%282%29_%28cropped%29.jpg",
         "salary":52865
     },
     {
         "id": 4,
         "name": "Mohammad Rafique",
+        "team": "Sylhet Division",
         "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mohammad_Rafique.jpg",
         "salary": 5260
     },
     {
         "id": 5,
         "name": "Mustafizur Rahman",
+        "team": "Rajasthan Royals",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Mustafizur_Rahman_on_practice_field_in_Dhaka_on_2018_%281%29_%28cropped%29.jpg/250px-Mustafizur_Rahman_on_practice_field_in_Dhaka_on_2018_%281%29_%28cropped%29.jpg",
         "salary": 42568
     },
     {
         "id": 6,
         "name": "Mahmudullah Riyad",
+        "team": "St Kitts & Nevis Patriots",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Mahmudullah_Riyad_on_practice_session_%2816%29_%28cropped%29.jpg/250px-Mahmudullah_Riyad_on_practice_session_%2816%29_%28cropped%29.jpg",
         "salary":12563
     },
     {
         "id": 7,
         "name": "Khaled Mahmud",
+        "team": "Dhaka Metropolis",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Khaled_Mahmud_Sujon_%282%29_%28cropped%29.jpg/260px-Khaled_Mahmud_Sujon_%282%29_%28cropped%29.jpg",
         "salary": 48692
     },
     {
         "id": 8,
         "name": "Tamim Iqbal",
+        "team": "Fortune Barishal",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tamim_Iqbal_Khan.jpg/260px-Tamim_Iqbal_Khan.jpg",
         "salary": 45862
     },
     {
         "id": 9,
         "name": "Habibul Bashar",
-        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tamim_Iqbal_Khan.jpg/260px-Tamim_Iqbal_Khan.jpg",
+        "team": "Biman Bangladesh Airlines",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Habibul_Bashar_%281%29_%28cropped%29.jpg/260px-Habibul_Bashar_%281%29_%28cropped%29.jpg",
         "salary": 25893
     },
     {
         "id": 10,
         "name": "Javed Omar",
+        "team": "Dhaka Division",
         "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Javed_Omar.jpg/260px-Javed_Omar.jpg",
         "salary":41563
     },
     {
         "id": 11,
         "name": "Shahadat Hossain",
+        "team": "Comilla Victorians",
         "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Sahadat_Hossain_.jpg",
         "salary":45263
+    },
+    {
+        "id": 12,
+        "name": "Mosaddek Hossain",
+        "team": "Chittagong Vikings",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Mosaddek_Hossain_Saikat_%282%29_%28cropped%29.jpg/250px-Mosaddek_Hossain_Saikat_%282%29_%28cropped%29.jpg",
+        "salary":35263
+    },
+   
+    {
+        "id": 13,
+        "name": "Nayeem Hasan",
+        "team": "Chittagong",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Nayeem_Hasan_05.jpg/260px-Nayeem_Hasan_05.jpg",
+        "salary":55263
+    },
+    {
+        "id": 14,
+        "name": "Mehidy Hasan",
+        "team": "Trinbago Knight Riders",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%A6%E0%A7%80_%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8_%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C_%28cropped%29.jpg/250px-%E0%A6%AE%E0%A7%87%E0%A6%B9%E0%A7%87%E0%A6%A6%E0%A7%80_%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A6%BE%E0%A6%A8_%E0%A6%AE%E0%A6%BF%E0%A6%B0%E0%A6%BE%E0%A6%9C_%28cropped%29.jpg",
+        "salary":36263
+    },
+    {
+        "id": 15,
+        "name": "Mominul Haque",
+        "team": "Rajshahi Kings",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Mominul_Haque_%282%29_%28cropped%29.jpg/250px-Mominul_Haque_%282%29_%28cropped%29.jpg",
+        "salary":86263
     }
    
      ]
